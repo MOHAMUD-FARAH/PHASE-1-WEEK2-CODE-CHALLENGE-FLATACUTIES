@@ -1,1 +1,35 @@
-
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Mr. Cute",
+        "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "name": "Mx. Monkey",
+        "image": "https://t3.ftcdn.net/jpg/05/66/26/98/360_F_566269813_8VisUzV5qqdN7nQ7De4FcVEVxnRuKh2E.jpg",
+        "votes": 0
+      },
+      {
+        "id": 3,
+        "name": "Ms. Zebra",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fzebra&psig=AOvVaw0sL0E_xTek5sAGzYx5IX1j&ust=1705001984438000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCOjO177J04MDFQAAAAAdAAAAABAE",
+        "votes": 0
+      },
+      {
+        "id": 4,
+        "name": "Dr. Lion",
+        "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+        "votes": 0
+      },
+      {
+        "id": 5,
+        "name": "Mme. Panda",
+        "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+        "votes": 0
+      }
+    ]
+   }
+   
